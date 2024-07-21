@@ -3,7 +3,7 @@
 <p>اسم من امیر محمد هست من 15 ساله هستم </p>
 <p>من یه برنامه نویس و دیزاینر وب و همچنین توسعه دهنده بات دیسکورد هستم که توی ایران زندگی میکنم.</p>
 <bold>Server Discord</bold>
-<p>https://discord.gg/forex-bot</p>
+<p>https://discord.gg/Bz6QrassgH</p>
 <h1>من چه توانایی هایی دارم؟</h1>
 <a href="#."><img src="https://skillicons.dev/icons?i=nodejs,html,css,js,python"></img></a>
 <p>و همچنین من از این تکنولوژی ها و برنامه ها استفاده میکنم :</p>
